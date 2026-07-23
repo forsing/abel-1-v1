@@ -214,7 +214,7 @@ method:           abel
 S_next_hat:       4876.953121751467
 S_match:          4876.953060857481
 S hist dup@12dp:  0
-next_loto:      [5, 9, 14, 29, 30, 32, 35]
+next_loto:      [5, x, 14, y, 30, z, 35]
 
 === loto_plus ===
 csv:              loto7_4654_k58_loto_plus_1705.csv
@@ -225,10 +225,10 @@ method:           abel
 S_next_hat:       4612.876213127133
 S_match:          4612.876247408894
 S hist dup@12dp:  0
-next_loto_plus:      [1, 4, 18, 22, 24, 28, 34]
+next_loto_plus:      [1, x, 18, y, 24, z, 34]
 
-next_loto:       [5, 9, 14, 29, 30, 32, 35]
-next_loto_plus:  [1, 4, 18, 22, 24, 28, 34]
+next_loto:       [5, x, 14, y, 30, z, 35]
+next_loto_plus:  [1, x, 18, y, 24, z, 34]
 """
 
 
@@ -246,7 +246,7 @@ Loto (2948 → actual 2949)
 pred: [3, 6, 8, 21, 22, 30, 35]
 actual: [6, 8, 12, 22, 30, 36, 38]
 HIT: False
-· 4/7 (6, 8, 22, 30)
+· 4/7 (6, 8, 22, 30)         4 POGODKA
 S_next_hat: 4866.227414059405
 S_match: 4866.227378348540
 
